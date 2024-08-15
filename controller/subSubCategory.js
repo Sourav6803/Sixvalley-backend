@@ -24,6 +24,7 @@ router.post("/create-subSubCategory", isAdmin,upload.single('image'), catchAsync
       name: name,
     });
 
+
     // if (!name || !priority || !mainCategory || subCategory) {
     //   return res.status(400).json({ success: false, message: "All fields are required *." });
     // }
@@ -33,6 +34,7 @@ router.post("/create-subSubCategory", isAdmin,upload.single('image'), catchAsync
     }
 
     const imageFile = req.file;
+    
 
     const result = await new Promise((resolve, reject) => {
       cloudinary.uploader.upload_stream({ folder: "subSubCategory" }, (error, result) => {
@@ -41,6 +43,7 @@ router.post("/create-subSubCategory", isAdmin,upload.single('image'), catchAsync
       }).end(imageFile.buffer);
 
     });
+
 
     const subSubCategory = {
       name: name,

@@ -28,6 +28,11 @@ app.use(cors({
     credentials: true
 }))
 
+// app.use(cors({
+//     origin: 'http://localhost:3000',
+//     credentials: true
+// }))
+
 app.use(bodyParser.urlencoded({ extended: true, limit: "50mb" }))
 app.use("/test", (req, res) => {
     res.send("Hello world!");
