@@ -24,7 +24,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 app.use(cors({
-    origin: 'https://sixvalley-frontend.vercel.app/',
+    origin: 'https://sixvalley-frontend.vercel.app',
     credentials: true
 }))
 
