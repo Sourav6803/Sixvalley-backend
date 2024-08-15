@@ -1,0 +1,235 @@
+[
+    {
+      "name": "Electronics",
+      "priority": 1,
+      "image": {
+        "public_id": "category/electronics",
+        "url": "https://www.thenoiseuk.com/wp-content/uploads/2021/10/Consumer-Electronics-Appliance_blog.jpeg"
+      }
+    },
+    {
+      "name": "Fashion",
+      "priority": 2,
+      "image": {
+        "public_id": "category/fashion",
+        "url": "https://www.shutterstock.com/shutterstock/photos/2477174817/display_1500/stock-photo-young-woman-use-of-mobile-phone-and-hold-with-shopping-bag-consumerism-sale-black-friday-online-2477174817.jpg"
+      }
+    },
+    {
+      "name": "Home Appliances",
+      "priority": 3,
+      "image": {
+        "public_id": "category/home_appliances",
+        "url": "https://www.midea.com/content/dam/midea-aem/gulf/kv3.jpg"
+      }
+    },
+    {
+      "name": "Books",
+      "priority": 4,
+      "image": {
+        "public_id": "category/books",
+        "url": "https://media.licdn.com/dms/image/D4D12AQFcPad8Ldl1kQ/article-cover_image-shrink_720_1280/0/1701414904328?e=2147483647&v=beta&t=JwvBZ1UK_2c8aDaUp0hZQUQmZbRs1wB_BInHYDGStQU"
+      }
+    },
+    {
+      "name": "Beauty",
+      "priority": 5,
+      "image": {
+        "public_id": "category/beauty",
+        "url": "https://vishubeautyparlour.com/blog/blogimages/beauty-gram.jpg"
+      }
+    },
+    {
+      "name": "Sports",
+      "priority": 6,
+      "image": {
+        "public_id": "category/sports",
+        "url": "https://lodestar.guru/blog/wp-content/uploads/2023/04/18_06_2019_13_32_44_7930698.jpg"
+      }
+    },
+    {
+      "name": "Toys",
+      "priority": 7,
+      "image": {
+        "public_id": "category/toys",
+        "url": "https://media.istockphoto.com/id/687165852/photo/toys.jpg?s=612x612&w=0&k=20&c=_BdsQLnut3pVc3RYgodD3Xiy7gCCM3K8HX3GdODLRt0="
+      }
+    },
+    {
+      "name": "Furniture",
+      "priority": 8,
+      "image": {
+        "public_id": "category/furniture",
+        "url": "https://5.imimg.com/data5/SELLER/Default/2023/4/298313334/MH/HU/ZH/7813591/modular-bedroom-furniture.jpg"
+      }
+    },
+    
+    {
+      "name": "Jewelry",
+      "priority": 10,
+      "image": {
+        "public_id": "category/jewelry",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwxSG3JfQy6dD9rFRKtkXZrE2KiU4Y_UMuA&s"
+      }
+    },
+    {
+      "name": "Watches",
+      "priority": 11,
+      "image": {
+        "public_id": "category/watches",
+        "url": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      }
+    },
+    {
+      "name": "Grocery",
+      "priority": 12,
+      "image": {
+        "public_id": "category/grocery",
+        "url": "https://e7.pngegg.com/pngimages/74/72/png-clipart-grocery-store-kabul-farms-supermarket-food-online-grocer-grocery-food-food-supermarket-thumbnail.png"
+      }
+    },
+    {
+      "name": "Health",
+      "priority": 13,
+      "image": {
+        "public_id": "category/health",
+        "url": "https://himachaltonite.com/wp-content/uploads/2020/11/world-health.jpg"
+      }
+    },
+    {
+      "name": "Pet Supplies",
+      "priority": 14,
+      "image": {
+        "public_id": "category/pet_supplies",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35YDLaYqJ6pU-THT3tJSmAW2JXSCSiiWwbw&s"
+      }
+    },
+    
+    {
+      "name": "Shoes",
+      "priority": 17,
+      "image": {
+        "public_id": "category/shoes",
+        "url": "https://5.imimg.com/data5/SELLER/Default/2022/9/JP/SJ/ED/38630640/casual-shoes-500x500.jpg"
+      }
+    },
+    {
+      "name": "Luggage",
+      "priority": 18,
+      "image": {
+        "public_id": "category/luggage",
+        "url": "https://t4.ftcdn.net/jpg/00/80/27/75/360_F_80277533_QTVmJo6wRVRfvsaOG6g7i6K3xEMvEK6V.jpg"
+      }
+    },
+    
+
+    
+    {
+      "name": "Crafts",
+      "priority": 29,
+      "image": {
+        "public_id": "category/crafts",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMuhG27IsvuOg4WpM0kFEQ-4c_bx_3zeRYw&s"
+      }
+    },
+    {
+      "name": "Painting",
+      "priority": 29,
+      "image": {
+        "public_id": "category/crafts",
+        "url": "https://c02.purpledshub.com/uploads/sites/51/2021/06/Easy-Craft-ideas-for-kids-d6c8148.jpg?w=1029&webp=1"
+      }
+    },
+    
+    {
+      "name": "Baby Products",
+      "priority": 32,
+      "image": {
+        "public_id": "category/baby_products",
+        "url": "https://5.imimg.com/data5/UH/RN/OK/SELLER-3121225/fmcg-baby-care-products-under-ayurvedic-medicated-category.jpg"
+      }
+    },
+    
+    {
+      "name": "Garden Tools",
+      "priority": 37,
+      "image": {
+        "public_id": "category/garden_tools",
+        "url": "https://www.rasnetwork.org/wp-content/uploads/2023/10/Best-Gardening-Tools-Names-with-Pictures-and-Their-Uses.webp"
+      }
+    },
+    {
+      "name": "Cleaning Supplies",
+      "priority": 38,
+      "image": {
+        "public_id": "category/cleaning_supplies",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cleaning_Supplies_logo.svg/1200px-Cleaning_Supplies_logo.svg.png"
+      }
+    },
+    
+    
+    {
+      "name": "Laptops",
+      "priority": 41,
+      "image": {
+        "public_id": "category/laptops",
+        "url": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+      }
+    },
+
+    {
+      "name": "Tablets",
+      "priority": 42,
+      "image": {
+        "public_id": "category/tablets",
+        "url": "https://www.myg.in/images/blog/8/8_Benefits_of_Tablets.jpg"
+      }
+    },
+    {
+      "name": "Cameras",
+      "priority": 43,
+      "image": {
+        "public_id": "category/cameras",
+        "url": "https://cdn.mos.cms.futurecdn.net/GXHa4PWwDPx7tGQG9MDQvK-1200-80.jpg"
+      }
+    },
+    
+    {
+      "name": "Headphones",
+      "priority": 48,
+      "image": {
+        "public_id": "category/headphones",
+        "url": "https://ptron.in/cdn/shop/products/51Bi92jvyDL._SL1100_544a234b-339e-44be-a2ae-b57b0ac66d86.jpg?v=1615793526"
+      }
+    },
+
+    {
+      "name": "Smartwatches",
+      "priority": 49,
+      "image": {
+        "public_id": "category/smartwatches",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2JTgnuvyshdWPAv-uvQQPFaQ-4wEeSsgAQ&s"
+      }
+    },
+    
+    
+    
+    
+    {
+      "name": "Kitchen Appliances",
+      "priority": 54,
+      "image": {
+        "public_id": "category/kitchen_appliances",
+        "url": "https://vaya.in/wp-content/uploads/2021/05/10-Must-Have-Appliances-for-Easy-Kitchen-Chores.jpg"
+      }
+    },
+    
+    {
+      "name": "Home Decor",
+      "priority": 56,
+      "image": {
+        "public_id": "category/home_decor",
+        "url": "https://hometown.gumlet.io/media/cms/icons/Kitchenware/figurines.jpg?w=200&dpr=2.6"
+      }
+    }
+]

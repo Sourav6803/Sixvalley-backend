@@ -1,0 +1,505 @@
+[
+    {
+      "name": "Sony WH-1000XM4",
+      "description": "Sony WH-1000XM4 is an industry-leading noise-canceling Bluetooth headphone.",
+      "category": "Electronics",
+      "subCategory": "Headphones",
+      "subSubCategory": "Bluetooth Headphone",
+      "brand": "Sony",
+      "keyPoints": "Noise Canceling, 30 Hours Battery Life, Touch Control",
+      "productType": "Physical",
+      "sku": "SONY-WH-1000XM4",
+      "unit": "pc",
+      "tags": "Sony, Bluetooth Headphone",
+      "customize": false,
+      "variants": [
+        {
+          "color": "Black",
+          "price": 24999,
+          "stock": 50,
+          "sku": "SONY-WH-1000XM4-BLK",
+          "images": [
+            {
+              "public_id": "sony_wh_1000xm4_black",
+              "url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "color": "Silver",
+          "price": 25999,
+          "stock": 30,
+          "sku": "SONY-WH-1000XM4-SLV",
+          "images": [
+            {
+              "public_id": "sony_wh_1000xm4_silver",
+              "url": "https://m.media-amazon.com/images/I/41JACWT-wWL._SX679_.jpg"
+            }
+          ]
+        }
+      ],
+      "originalPrice": 29999,
+      "discountType": "Flat",
+      "discountAmount": 5000,
+      "afterDiscountPrice": 24999,
+      "shippingCost": 50,
+      "stock": 80,
+      "images": [
+        {
+          "public_id": "sony_wh_1000xm4_1",
+          "url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UL320_.jpg"
+        },
+        {
+          "public_id": "sony_wh_1000xm4_2",
+          "url": "https://m.media-amazon.com/images/I/41JACWT-wWL._SX679_.jpg"
+        },
+        {
+          "public_id": "sony_wh_1000xm4_3",
+          "url": "https://m.media-amazon.com/images/I/91tTIC0vQML._SX679_.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Alice Brown",
+          "rating": 5,
+          "comment": "Best noise-canceling headphones ever!"
+        },
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great sound quality but a bit pricey."
+        }
+      ],
+      "ratings": 4.7,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 2,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "Material": "Plastic" },
+        { "Fit": "Over-Ear" },
+        { "Warranty": "1 year" },
+        { "Model No": "WH1000XM4/B" }
+      ]
+    },
+
+    {
+      "name": "JBL C100SI In-Ear Headphones",
+      "description": "JBL C100SI In-Ear Headphones with powerful bass and a comfortable fit.",
+      "category": "Electronics",
+      "subCategory": "Headphones",
+      "subSubCategory": "Wired Headphone",
+      "brand": "JBL",
+      "keyPoints": "Powerful Bass, Noise Isolation, Lightweight",
+      "productType": "Physical",
+      "sku": "JBL-C100SI",
+      "unit": "pc",
+      "tags": "JBL, Wired Headphone",
+      "customize": false,
+      "variants": [
+        {
+          "color": "Black",
+          "price": 699,
+          "stock": 100,
+          "sku": "JBL-C100SI-BLK",
+          "images": [
+            {
+              "public_id": "jbl_c100si_black",
+              "url": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1f6d4d79/C150SI-black1-hero-1605x1605px.png?sw=535&sh=535"
+            }
+          ]
+        },
+        {
+          "color": "Red",
+          "price": 699,
+          "stock": 80,
+          "sku": "JBL-C100SI-RED",
+          "images": [
+            {
+              "public_id": "jbl_c100si_red",
+              "url": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw585661bf/C150SI-red1-hero-1605x1605px.png?sw=535&sh=535"
+            }
+          ]
+        }
+      ],
+      "originalPrice": 999,
+      "discountType": "Flat",
+      "discountAmount": 300,
+      "afterDiscountPrice": 699,
+      "shippingCost": 30,
+      "stock": 180,
+      "images": [
+        {
+          "public_id": "jbl_c100si_1",
+          "url": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw585661bf/C150SI-red1-hero-1605x1605px.png?sw=535&sh=535"
+        },
+        {
+          "public_id": "jbl_c100si_2",
+          "url": "https://m.media-amazon.com/images/I/61n7dj+xbXL._AC_UL320_.jpg"
+        }
+        
+      ],
+      "reviews": [
+        {
+          "user": "Eve Walker",
+          "rating": 5,
+          "comment": "Great sound quality for the price."
+        },
+        {
+          "user": "Adam Johnson",
+          "rating": 4,
+          "comment": "Comfortable and lightweight."
+        }
+      ],
+      "ratings": 4.5,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 5,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "Material": "Plastic" },
+        { "Fit": "Over-Ear" },
+        { "Warranty": "1 year" },
+        { "Model No": "WH1000XM4/B" }
+      ]
+    },
+
+    {
+      "name": "boAt Airdopes 441",
+      "description": "boAt Airdopes 441 is a powerful and stylish true wireless earbuds with IPX7 rating.",
+      "category": "Electronics",
+      "subCategory": "Airbuds",
+      "brand": "boAt",
+      "keyPoints": "True Wireless, IPX7 Waterproof, Up to 30 Hours Playback",
+      "productType": "Physical",
+      "sku": "BOAT-AIRDPES-441",
+      "unit": "pc",
+      "tags": "boAt, Airbuds",
+      "customize": false,
+      "variants": [
+        {
+          "color": "Active Black",
+          "price": 1999,
+          "stock": 100,
+          "sku": "BOAT-AIRDPES-441-ABLK",
+          "images": [
+            {
+              "public_id": "boat_airdpes_441_active_black",
+              "url": "https://m.media-amazon.com/images/I/71ByNT34bfL._AC_UL320_.jpghttps://m.media-amazon.com/images/I/71ByNT34bfL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "color": "Raging Red",
+          "price": 1999,
+          "stock": 80,
+          "sku": "BOAT-AIRDPES-441-RRED",
+          "images": [
+            {
+              "public_id": "boat_airdpes_441_raging_red",
+              "url": "https://www.boat-lifestyle.com/cdn/shop/products/32011675-2ad8-4b99-9787-895caf201d28_600x.png?v=1642405569"
+            }
+          ]
+        }
+      ],
+      "originalPrice": 2999,
+      "discountType": "Flat",
+      "discountAmount": 1000,
+      "afterDiscountPrice": 1999,
+      "shippingCost": 40,
+      "stock": 180,
+      "images": [
+        {
+          "public_id": "boat_airdpes_441_1",
+          "url": "https://www.boat-lifestyle.com/cdn/shop/products/32011675-2ad8-4b99-9787-895caf201d28_600x.png?v=1642405569"
+        },
+        {
+          "public_id": "boat_airdpes_441_2",
+          "url": "https://www.boat-lifestyle.com/cdn/shop/products/FeatureImagesAD131BV5.0copy2_800x.jpg?v=1718351991"
+        },
+        {
+          "public_id": "boat_airdpes_441_3",
+          "url": "https://www.boat-lifestyle.com/cdn/shop/products/ad131FIAD131TypeCcopy2_800x.jpg?v=1718351991"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Alice Brown",
+          "rating": 5,
+          "comment": "Amazing sound quality and battery life!"
+        },
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great fit but connection issues occasionally."
+        }
+      ],
+      "ratings": 4.6,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 10,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "Material": "Plastic" },
+        { "Fit": "Over-Ear" },
+        { "Warranty": "1 year" },
+        { "Model No": "WH1000XM4/B" }
+      ]
+    },
+    {
+      "name": "boAt Stone 1000",
+      "description": "boAt Stone 1000 is a powerful 14W Bluetooth speaker with a rugged design.",
+      "category": "Electronics",
+      "subCategory": "Bluetooth Speakers",
+      "brand": "boAt",
+      "keyPoints": "14W Stereo Sound, IPX5 Water Resistant, Up to 8 Hours Playtime",
+      "productType": "Physical",
+      "sku": "BOAT-STONE-1000",
+      "unit": "pc",
+      "tags": "boAt, Bluetooth Speaker",
+      "customize": false,
+      "variants": [
+        {
+          "color": "Black",
+          "price": 2999,
+          "stock": 50,
+          "sku": "BOAT-STONE-1000-BLK",
+          "images": [
+            {
+              "public_id": "boat_stone_1000_black",
+              "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/05ef4b39-9658-49d9-a2e2-10670c9a4255_600x.png?v=1698730727"
+            }
+          ]
+        },
+        {
+          "color": "Blue",
+          "price": 2999,
+          "stock": 30,
+          "sku": "BOAT-STONE-1000-BLU",
+          "images": [
+            {
+              "public_id": "boat_stone_1000_blue",
+              "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3d7aa8a6-7175-49ec-a5d2-312242542d23_600x.png?v=1690185277"
+            }
+          ]
+        },
+        {
+            "color": "Govey grey",
+            "price": 2899,
+            "stock": 30,
+            "sku": "BOAT-STONE-1000-BLU",
+            "images": [
+              {
+                "public_id": "boat_stone_1000_blue",
+                "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_5021e9c3-194d-4f8b-90d1-78f018cf9af5_600x.png?v=1673001602"
+              }
+            ]
+          }
+      
+      ],
+      "originalPrice": 3999,
+      "discountType": "Flat",
+      "discountAmount": 1000,
+      "afterDiscountPrice": 2999,
+      "shippingCost": 50,
+      "stock": 80,
+      "images": [
+        {
+          "public_id": "boat_stone_1000_1",
+          "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/05ef4b39-9658-49d9-a2e2-10670c9a4255_600x.png?v=1698730727"
+        },
+        {
+          "public_id": "boat_stone_1000_2",
+          "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3d7aa8a6-7175-49ec-a5d2-312242542d23_1875x.png?v=1690185277"
+        },
+        {
+          "public_id": "boat_stone_1000_3",
+          "url": "https://www.boat-lifestyle.com/products/stone-350?variant=32059630420066"
+        },
+        {
+            "public_id": "boat_stone_1000_3",
+            "url": "https://www.boat-lifestyle.com/products/stone-350?variant=32059630420066"
+        },
+        {
+            "public_id": "boat_stone_1000_3",
+            "url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_5021e9c3-194d-4f8b-90d1-78f018cf9af5_600x.png?v=1673001602"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Eve Walker",
+          "rating": 5,
+          "comment": "Great speaker with powerful sound."
+        },
+        {
+          "user": "Adam Johnson",
+          "rating": 4,
+          "comment": "Good bass but a bit heavy."
+        }
+      ],
+      "ratings": 4.6,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 3,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "Material": "Plastic" },
+        { "Fit": "Portable" },
+        { "Warranty": "1 year" },
+        { "Model No": "Stone1000" }
+      ]
+    },
+
+    {
+      "name": "Sony HT-RT3 Real 5.1ch Dolby Digital Soundbar",
+      "description": "Sony HT-RT3 is a real 5.1ch Dolby Digital Soundbar Home Theater System.",
+      "category": "Electronics",
+      "subCategory": "Home Theaters",
+      "brand": "Sony",
+      "keyPoints": "5.1ch Dolby Digital, Bluetooth, USB Audio Playback",
+      "productType": "Physical",
+      "sku": "SONY-HT-RT3",
+      "unit": "pc",
+      "tags": "Sony, Home Theater",
+      "customize": false,
+      "variants": [
+        {
+          "color": "Black",
+          "price": 18999,
+          "stock": 20,
+          "sku": "SONY-HT-RT3-BLK",
+          "images": [
+            {
+              "public_id": "sony_ht_rt3_black",
+              "url": "https://m.media-amazon.com/images/I/81Q7+efG92L._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ],
+      "originalPrice": 20999,
+      "discountType": "Flat",
+      "discountAmount": 2000,
+      "afterDiscountPrice": 18999,
+      "shippingCost": 100,
+      "stock": 20,
+      "images": [
+        {
+          "public_id": "sony_ht_rt3_1",
+          "url": "https://m.media-amazon.com/images/I/81Q7+efG92L._AC_UL320_.jpg"
+        },
+        {
+          "public_id": "sony_ht_rt3_2",
+          "url": "https://m.media-amazon.com/images/I/81Q7+efG92L._AC_UL320_.jpg"
+        },
+        {
+          "public_id": "sony_ht_rt3_3",
+          "url": "https://m.media-amazon.com/images/I/81Q7+efG92L._AC_UL320_.jpg"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Alice Brown",
+          "rating": 5,
+          "comment": "Excellent sound quality and easy to set up."
+        },
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Great value for the price."
+        }
+      ],
+      "ratings": 4.6,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 2,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "material": "Plastic" },
+        { "fit": "Home" },
+        { "warranty": "1 year" },
+        { "modelNo": "HTRT3" }
+      ]
+    },
+
+    {
+      "name": "Philips Smart Wi-Fi LED Bulb",
+      "description": "Philips Smart Wi-Fi LED Bulb with 9W power and RGB color changing capabilities.",
+      "category": "Electronics",
+      "subCategory": "LED Bulb",
+      "brand": "Philips",
+      "keyPoints": "Smart Wi-Fi, 9W, RGB Color Changing",
+      "productType": "Physical",
+      "sku": "PHILIPS-LED-9W",
+      "unit": "pc",
+      "tags": "Philips, LED Bulb",
+      "customize": false,
+      "variants": [
+        
+      ],
+      "originalPrice": 999,
+      "discountType": "Flat",
+      "discountAmount": 200,
+      "afterDiscountPrice": 799,
+      "shippingCost": 30,
+      "stock": 100,
+      "images": [
+        {
+          "public_id": "philips_led_9w_1",
+          "url": "https://m.media-amazon.com/images/I/51hHNW4LABL._SL1080_.jpg"
+        },
+        {
+          "public_id": "philips_led_9w_2",
+          "url": "https://m.media-amazon.com/images/I/61yaCTzrJkL._SL1080_.jpg"
+        },
+        {
+          "public_id": "philips_led_9w_3",
+          "url": "https://m.media-amazon.com/images/I/61McyM2ZvUL._SL1080_.jpg"
+        },
+        {
+            "public_id": "philips_led_9w_3",
+            "url": "https://m.media-amazon.com/images/I/71SXkfDWhUL._SL1500_.jpg"
+          }
+      ],
+      "reviews": [
+        {
+          "user": "Eve Walker",
+          "rating": 5,
+          "comment": "Works great with Alexa and Google Home."
+        },
+        {
+          "user": "Adam Johnson",
+          "rating": 4,
+          "comment": "Good brightness and easy setup."
+        }
+      ],
+      "ratings": 4.7,
+      "shopId": "65490acdbe460e2b802a9373",
+      "shop": {
+        "name": "Deblena Arts",
+        "location": "Paharpur, Jamalpur"
+      },
+      "sold_out": 5,
+      "createdAt": "2024-08-05T10:00:00.000Z",
+      "otherDetails": [
+        { "Material": "Plastic" },
+        { "Fit": "Home" },
+        { "Warranty": "1 year" },
+        { "Model No": "LED-9W-RGB" }
+      ]
+    }
+  ]

@@ -1,0 +1,328 @@
+[
+    
+   
+    
+    {
+      "name": "Power Banks",
+      "priority": "54",
+      "mainCategory": "Mobile Accessories",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Laptop Sleeves",
+      "priority": "55",
+      "mainCategory": "Laptops",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Gaming Chairs",
+      "priority": "56",
+      "mainCategory": "Gaming",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Portable Speakers",
+      "priority": "57",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Home Theatre Systems",
+      "priority": "58",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Fitness Watches",
+      "priority": "59",
+      "mainCategory": "Smartwatches",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Gaming Monitors",
+      "priority": "60",
+      "mainCategory": "Monitors",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Ergonomic Chairs",
+      "priority": "61",
+      "mainCategory": "Office Furniture",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Standing Desks",
+      "priority": "62",
+      "mainCategory": "Office Furniture",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Patio Furniture",
+      "priority": "63",
+      "mainCategory": "Outdoor Furniture",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Garden Tools",
+      "priority": "64",
+      "mainCategory": "Garden Tools",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Cleaning Equipment",
+      "priority": "65",
+      "mainCategory": "Cleaning Supplies",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Art Supplies",
+      "priority": "66",
+      "mainCategory": "Crafts",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Vitamins",
+      "priority": "67",
+      "mainCategory": "Health Supplements",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Pet Toys",
+      "priority": "68",
+      "mainCategory": "Pet Food",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Diapers",
+      "priority": "69",
+      "mainCategory": "Baby Products",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Printers",
+      "priority": "70",
+      "mainCategory": "Office Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Hair Clippers",
+      "priority": "71",
+      "mainCategory": "Personal Care",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Electric Shavers",
+      "priority": "72",
+      "mainCategory": "Personal Care",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Treadmills",
+      "priority": "73",
+      "mainCategory": "Fitness",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Dumbbells",
+      "priority": "74",
+      "mainCategory": "Fitness",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Game Controllers",
+      "priority": "75",
+      "mainCategory": "Gaming",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "VR Accessories",
+      "priority": "76",
+      "mainCategory": "Gaming",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Smart Locks",
+      "priority": "77",
+      "mainCategory": "Smart Home",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Smart Light Bulbs",
+      "priority": "78",
+      "mainCategory": "Smart Home",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    
+    {
+      "name": "Smart Switches",
+      "priority": "80",
+      "mainCategory": "Smart Home",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Electric Scooters",
+      "priority": "81",
+      "mainCategory": "Electric Vehicles",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "E-Bikes",
+      "priority": "82",
+      "mainCategory": "Electric Vehicles",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Smart TVs",
+      "priority": "83",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Soundbars",
+      "priority": "84",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Smart Speakers",
+      "priority": "85",
+      "mainCategory": "Smart Home",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Wearable Cameras",
+      "priority": "86",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Tripods",
+      "priority": "87",
+      "mainCategory": "Photography",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Lighting Kits",
+      "priority": "88",
+      "mainCategory": "Photography",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Photo Printers",
+      "priority": "89",
+      "mainCategory": "Photography",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Memory Cards",
+      "priority": "90",
+      "mainCategory": "Photography",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Backpacks",
+      "priority": "91",
+      "mainCategory": "Travel",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Luggage",
+      "priority": "92",
+      "mainCategory": "Travel",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Travel Accessories",
+      "priority": "93",
+      "mainCategory": "Travel",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Yoga Mats",
+      "priority": "94",
+      "mainCategory": "Fitness",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Resistance Bands",
+      "priority": "95",
+      "mainCategory": "Fitness",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Drones",
+      "priority": "96",
+      "mainCategory": "Electronics",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Robot Vacuums",
+      "priority": "97",
+      "mainCategory": "Home Appliances",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Electric Kettles",
+      "priority": "98",
+      "mainCategory": "Kitchen Appliances",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Baby Monitors",
+      "priority": "99",
+      "mainCategory": "Baby Products",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    },
+    {
+      "name": "Strollers",
+      "priority": "100",
+      "mainCategory": "Baby Products",
+      "createdAt": "2024-08-02T10:00:00.000Z",
+      "updatedAt": "2024-08-02T10:00:00.000Z"
+    }
+  ]
