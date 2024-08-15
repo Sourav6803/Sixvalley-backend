@@ -51,7 +51,7 @@ router.post("/create-user", upload.single('avatar'), async (req, res, next) => {
 
 
 
-    const activationUrl = `http://localhost:3000/activation/${activationToken}`;
+    const activationUrl = `https://sixvalley-frontend.vercel.app/activation/${activationToken}`;
 
     const data = {user: { name: user.name }, activationUrl}
 
